@@ -1,6 +1,2 @@
 c
-<<<<<<< HEAD
-ddddd
-=======
 eeeeeeeee
->>>>>>> dev
